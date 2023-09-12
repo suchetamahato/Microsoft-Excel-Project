@@ -4,23 +4,23 @@ As part of the project's objectives, I completed data cleaning tasks by identify
 
 INSIGHTS:
 
-  The total number of casualties that occurred after the accident- 4,17,883
+- The total number of casualties that occurred after the accident- 4,17,883
 
-  Percentage of total casualties with respect to accident severity- Fatal (1.71%), Serious (14.19%), Slight (84.10%)
+- Percentage of total casualties with respect to accident severity- Fatal (1.71%), Serious (14.19%), Slight (84.10%)
 
-  Maximum casualties by vehicle type- Car (79.80%)
+- Maximum casualties by vehicle type- Car (79.80%)
 
-  Maximum casualties by road type- Single carriageway (16.12%)
+- Maximum casualties by road type- Single carriageway (16.12%)
 
-  Maximum casualties by road surface- Dry (66.87%)
+- Maximum casualties by road surface- Dry (66.87%)
 
-  Maximum casualties in light condition (Daylight/ Darkness)- Daylight (72.98%)
+- Maximum casualties in light condition (Daylight/ Darkness)- Daylight (72.98%)
 
-  Maximum casualties in area (Urban/ Rural)- Urban (61.23%)
+- Maximum casualties in area (Urban/ Rural)- Urban (61.23%)
 
-  Maximum casualties in 2021 (Month)- November (9.44%)
+- Maximum casualties in 2021 (Month)- November (9.44%)
 
-  Maximum casualties in 2022 (Month)- November (9.42%)
+- Maximum casualties in 2022 (Month)- November (9.42%)
 
 CONCLUSION:
 
