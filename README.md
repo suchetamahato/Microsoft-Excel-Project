@@ -4,7 +4,7 @@ As part of the project's objectives, I completed data cleaning tasks by identify
 
 INSIGHTS:
 
-The total number of casualties that occurred after the accident- 4,17,883
+  The total number of casualties that occurred after the accident- 4,17,883
 
   Percentage of total casualties with respect to accident severity- Fatal (1.71%), Serious (14.19%), Slight (84.10%)
 
