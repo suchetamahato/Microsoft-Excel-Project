@@ -1,20 +1,16 @@
 ROAD ACCIDENT DASHBOARD (MICROSOFT EXCEL PROJECT)
 
-In this project, I completed data cleaning tasks by identifying and correcting errors in the dataset, did data processing by adding customized columns, conducted data analysis using Pivot tables and Excel functions, and created data visualizations to extract insights. The insights gained from this analysis can guide the implementation of specific measures to improve road safety, reduce road accidents, and save lives.
+In this project, I undertook data cleaning, processing, analysis, and visualization to extract insights from the road accident dataset.
 
 ⚙️ Steps Followed:
 
-🔸 Requirement gathering from client
+🔸 **Data Cleaning**: Identified and corrected errors in the dataset, ensuring data accuracy and reliability. I addressed issues such as missing values, duplicates, and inconsistencies.
 
-🔸 Identify the Stakeholders of the Project
+🔸 **Data Processing**: Added customized columns to the dataset, containing calculated or derived information relevant to the project's goals.
 
-🔸 Data Cleaning as per the requirement
+🔸 **Data Analysis**: Employed tools like Pivot tables and Excel functions to perform data analysis.
 
-🔸 Data Processing by adding some customized columns in data 
-
-🔸 Data Analysis by Pivot Tables and Excel Functions 
-
-🔸  Data Visualization to create charts and custom sheets to show the insights
+🔸 **Data Visualization**: Created data visualizations, including charts, graphs, and tables, to present the analysis findings visually. These visualizations helped make the insights more accessible and understandable.
 
 🔎 Insights:
 
@@ -50,7 +46,7 @@ In this project, I completed data cleaning tasks by identifying and correcting e
 
 6. **Deadliest Month**: November consistently had the highest number of casualties in both 2021 and 2022, highlighting a recurring pattern that demands attention and intervention.
 
-These insights can guide the implementation of specific measures to enhance road safety, reduce accidents, and ultimately save lives.
+These insights can guide the implementation of specific measures to improve road safety, reduce accidents, and save lives.
 
 
  
