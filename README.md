@@ -46,7 +46,7 @@ In this project, I undertook data cleaning, processing, analysis, and visualizat
 
 6. **Deadliest Month**: November consistently had the highest number of casualties in both 2021 and 2022, highlighting a recurring pattern that demands attention and intervention.
 
-These insights can guide the implementation of specific measures to improve road safety, reduce accidents, and save lives.
+These insights provide valuable information for developing strategies to enhance road safety, reduce accidents, and ultimately save lives.
 
 
  
