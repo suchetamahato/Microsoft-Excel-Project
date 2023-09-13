@@ -8,7 +8,7 @@ In this project, I undertook data cleaning, processing, analysis, and visualizat
 
 🔸 **Data Processing**: Added customized columns to the dataset, containing calculated or derived information relevant to the project's goals.
 
-🔸 **Data Analysis**: Employed tools like Pivot tables and Excel functions to perform data analysis.
+🔸 **Data Analysis**: Used tools like Pivot tables and Excel functions to perform data analysis.
 
 🔸 **Data Visualization**: Created data visualizations, including charts, graphs, and tables, to present the analysis findings visually. These visualizations helped make the insights more accessible and understandable.
 
