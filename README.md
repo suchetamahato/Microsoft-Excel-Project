@@ -1,6 +1,6 @@
 ROAD ACCIDENT DASHBOARD (MICROSOFT EXCEL PROJECT)
 
-In this project, I undertook data cleaning, processing, analysis, and visualization to extract insights from the road accident dataset.
+In this project, I performed cleaning, processing, analysis, and visualization to extract insights from the road accident dataset.
 
 ⚙️ Steps Followed:
 
