@@ -1,6 +1,6 @@
 ROAD ACCIDENT DASHBOARD (MICROSOFT EXCEL PROJECT)
 
-As part of the project's objectives, I completed data cleaning tasks by identifying and correcting errors in the dataset, did data processing by adding customized columns, conducted data analysis using Pivot tables and Excel functions, and created data visualizations to extract insights. The insights gained from this analysis can guide the implementation of specific measures to improve road safety, reduce road accidents, and save lives.
+In this project, I completed data cleaning tasks by identifying and correcting errors in the dataset, did data processing by adding customized columns, conducted data analysis using Pivot tables and Excel functions, and created data visualizations to extract insights. The insights gained from this analysis can guide the implementation of specific measures to improve road safety, reduce road accidents, and save lives.
 
 ⚙ Approach Followed:
 
