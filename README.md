@@ -2,7 +2,7 @@
 
 In this project, I performed data cleaning, processing, analysis, and visualization to extract insights from the road accident dataset.
 
-# Steps Followed:
+# Steps Followed
 
 🔸 **Data Cleaning**: Identified and corrected errors in the dataset, ensuring data accuracy and reliability. I addressed issues such as missing values, duplicates, and inconsistencies.
 
@@ -12,7 +12,7 @@ In this project, I performed data cleaning, processing, analysis, and visualizat
 
 🔸 **Data Visualization**: Created data visualizations, including charts, graphs, and tables, to present the analysis findings visually. These visualizations helped make the insights more accessible and understandable.
 
-# Insights:
+# Insights
 
 🔹 The total number of casualties that occurred after the accident- 4,17,883
 
@@ -32,7 +32,7 @@ In this project, I performed data cleaning, processing, analysis, and visualizat
 
 🔹 Maximum casualties in 2022 (Month)- November (9.42%)
 
-# Conclusion:
+# Conclusion
 
 🔎 **Casualties Breakdown**: The dataset records a total of 417,883 casualties, categorized by severity as Fatal, Serious, and Slight.
 
