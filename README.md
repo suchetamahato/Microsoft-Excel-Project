@@ -36,7 +36,9 @@ In this project, I performed data cleaning, processing, analysis, and visualizat
 
 🔎 **Casualties Breakdown**: The dataset records a total of 417,883 casualties, categorized by severity as Fatal, Serious, and Slight.
 
-🔎 **Primary Accident Type**: Car accidents account for the largest share of casualties, indicating the need for targeted safety measures in this category.
+🔎 **Accident Severity**: The severity with the highest percentage of total casualties is "Slight".
+
+🔎 **Vehicle Type**: Car accidents account for the largest share of casualties, indicating the need for targeted safety measures in this category.
 
 🔎 **Road Surface**: Most accidents occurred on dry road surfaces, underscoring the importance of maintaining road conditions for safety.
 
