@@ -6,19 +6,19 @@ In this project, I performed data cleaning, processing, analysis, and visualizat
 
 🔸 **Data Cleaning**
 
-Identified and corrected errors in the dataset, ensuring data accuracy and reliability. I addressed issues such as missing values, duplicates, and inconsistencies.
+I identified and corrected errors in the dataset, ensuring data accuracy and reliability. I addressed issues such as missing values, duplicates, and inconsistencies.
 
 🔸 **Data Processing**
 
-Added customized columns to the dataset, containing calculated or derived information relevant to the project's goals.
+I added customized columns to the dataset, containing calculated or derived information relevant to the project's goals.
 
 🔸 **Data Analysis**
 
-Used tools like Pivot tables and Excel functions to perform data analysis.
+I used tools like Pivot tables and Excel functions to perform data analysis.
 
 🔸 **Data Visualization**
 
-Created data visualizations, including charts, graphs, and tables, to present the analysis findings visually. These visualizations helped make the insights more accessible and understandable.
+I created data visualizations, including charts, graphs, and tables, to present the analysis findings visually. These visualizations helped make the insights more accessible and understandable.
 
 # Insights
 
