@@ -4,13 +4,21 @@ In this project, I performed data cleaning, processing, analysis, and visualizat
 
 # Steps Followed
 
-🔸 **Data Cleaning**: Identified and corrected errors in the dataset, ensuring data accuracy and reliability. I addressed issues such as missing values, duplicates, and inconsistencies.
+🔸 **Data Cleaning**
 
-🔸 **Data Processing**: Added customized columns to the dataset, containing calculated or derived information relevant to the project's goals.
+Identified and corrected errors in the dataset, ensuring data accuracy and reliability. I addressed issues such as missing values, duplicates, and inconsistencies.
 
-🔸 **Data Analysis**: Used tools like Pivot tables and Excel functions to perform data analysis.
+🔸 **Data Processing**
 
-🔸 **Data Visualization**: Created data visualizations, including charts, graphs, and tables, to present the analysis findings visually. These visualizations helped make the insights more accessible and understandable.
+Added customized columns to the dataset, containing calculated or derived information relevant to the project's goals.
+
+🔸 **Data Analysis**
+
+Used tools like Pivot tables and Excel functions to perform data analysis.
+
+🔸 **Data Visualization**
+
+Created data visualizations, including charts, graphs, and tables, to present the analysis findings visually. These visualizations helped make the insights more accessible and understandable.
 
 # Insights
 
@@ -34,19 +42,33 @@ In this project, I performed data cleaning, processing, analysis, and visualizat
 
 # Conclusion
 
-🔎 **Casualties Breakdown**: The dataset records a total of 417,883 casualties, categorized by severity as Fatal, Serious, and Slight.
+🔎 **Casualties Breakdown**
 
-🔎 **Accident Severity**: The severity with the highest percentage of total casualties is "Slight".
+The dataset records a total of 417,883 casualties, categorized by severity as Fatal, Serious, and Slight.
 
-🔎 **Vehicle Type**: Car accidents account for the largest share of casualties, indicating the need for targeted safety measures in this category.
+🔎 **Accident Severity**
 
-🔎 **Road Surface**: Most accidents occurred on dry road surfaces, underscoring the importance of maintaining road conditions for safety.
+The severity with the highest percentage of total casualties is "Slight".
 
-🔎 **Daylight Incidents**: The majority of accidents happened during daylight hours, suggesting potential areas for improved safety measures during other times of the day.
+🔎 **Vehicle Type**
 
-🔎 **Urban Areas**: Urban locations had the highest incidence of casualties, emphasizing the significance of urban road safety initiatives.
+Car accidents account for the largest share of casualties, indicating the need for targeted safety measures in this category.
 
-🔎 **Deadliest Month**: November consistently had the highest number of casualties in both 2021 and 2022, highlighting a recurring pattern that demands attention and intervention.
+🔎 **Road Surface**
+
+Most accidents occurred on dry road surfaces, underscoring the importance of maintaining road conditions for safety.
+
+🔎 **Daylight Incidents**
+
+The majority of accidents happened during daylight hours, suggesting potential areas for improved safety measures during other times of the day.
+
+🔎 **Urban Areas**
+
+Urban locations had the highest incidence of casualties, emphasizing the significance of urban road safety initiatives.
+
+🔎 **Deadliest Month**
+
+November consistently had the highest number of casualties in both 2021 and 2022, highlighting a recurring pattern that demands attention and intervention.
 
 These insights provide valuable information for developing strategies to improve road safety, decrease accident occurrences, and ultimately save lives.
 
